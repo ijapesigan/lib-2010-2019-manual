@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "lib-2010-2019-manual",
     "section": "",
-    "text": "Jones, J. A., & Waller, N. G. (2013). The normal-theory and\nasymptotic distribution-free (ADF) covariance matrix of\nstandardized regression coefficients: Theoretical extensions and finite\nsample behavior [Technical report]. University of Minnesota-Twin\nCities. http://users.cla.umn.edu/~nwaller/downloads/techreports/TR052913.pdf\n\n\nMuth’en, L. K., & Muth’en, B. O. (2017). Mplus\nuser’s guide. Eighth edition. Muthén\n& Muthén."
+    "text": "Hesterberg, T. C. (2014). What teachers should know about the\nbootstrap: Resampling in the undergraduate statistics curriculum.\nhttps://arxiv.org/abs/1411.5279\n\n\nJones, J. A., & Waller, N. G. (2013). The normal-theory and\nasymptotic distribution-free (ADF) covariance matrix of\nstandardized regression coefficients: Theoretical extensions and finite\nsample behavior [Technical report]. University of Minnesota-Twin\nCities. http://users.cla.umn.edu/~nwaller/downloads/techreports/TR052913.pdf\n\n\nMuth’en, L. K., & Muth’en, B. O. (2017). Mplus\nuser’s guide. Eighth edition. Muthén\n& Muthén."
   },
   {
     "objectID": ".setup/quarto/tags/tags.html",
     "href": ".setup/quarto/tags/tags.html",
     "title": "Library Tags",
     "section": "",
-    "text": "key\nannotation\nkeywords\n\n\n\n\nJones-Waller-2013b\nJones-Waller-2013b\nNULL\nNULL\n\n\nMuthen-Muthen-2017\nMuthen-Muthen-2017\nsem, sem-software\nNULL"
+    "text": "key\nannotation\nkeywords\n\n\n\n\nHesterberg-2014\nHesterberg-2014\nNULL\nteaching, bootstrap, permutation test, randomization test\n\n\nJones-Waller-2013b\nJones-Waller-2013b\nNULL\nNULL\n\n\nMuthen-Muthen-2017\nMuthen-Muthen-2017\nsem, sem-software\nNULL"
   },
   {
     "objectID": ".setup/quarto/session/session.html#session",
