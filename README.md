@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-2010-2019-manual/actions/workflows/shel
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-line-spacing="2">
+entry-spacing="0" line-spacing="2">
 
 <div id="ref-Hesterberg-2014" class="csl-entry">
 
