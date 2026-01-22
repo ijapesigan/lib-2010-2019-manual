@@ -23,11 +23,10 @@ entry-spacing="0" line-spacing="2">
 
 <div id="ref-ADID-2010" class="csl-entry">
 
-<span class="nocase">Emotions, & ynamic Systems Laboratory</span>.
-(2010). *The affective dynamics and individual differences (ADID) study:
-Developing non-stationary and network-based methods for modeling the
-perception and physiology of emotions*. University of North Carolina at
-Chapel Hill.
+Emotions, & Dynamic Systems Laboratory. (2010). *The affective dynamics
+and individual differences (ADID) study: Developing non-stationary and
+network-based methods for modeling the perception and physiology of
+emotions*. University of North Carolina at Chapel Hill.
 
 </div>
 
