@@ -30,6 +30,14 @@ emotions*. University of North Carolina at Chapel Hill.
 
 </div>
 
+<div id="ref-PQ-2017" class="csl-entry">
+
+<span class="nocase">Emotions, P., & sychophysiology Laboratory</span>.
+(2017). *Promoting cancer-related behavior change through positive
+emotions (PQ)*. University of North Carolina at Chapel Hill.
+
+</div>
+
 <div id="ref-Hesterberg-2014" class="csl-entry">
 
 Hesterberg, T. C. (2014). *What teachers should know about the
@@ -52,14 +60,6 @@ coefficients: Theoretical extensions and finite sample behavior*
 
 Muth’en, L. K., & Muth’en, B. O. (2017). *Mplus user’s guide. Eighth
 edition*. Muthén & Muthén.
-
-</div>
-
-<div id="ref-PQ-2017" class="csl-entry">
-
-Positive Emotions & Psychophysiology Laboratory. (2017). *Promoting
-cancer-related behavior change through positive emotions (PQ)*.
-University of North Carolina at Chapel Hill.
 
 </div>
 
